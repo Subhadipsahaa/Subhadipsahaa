@@ -12,11 +12,24 @@
 
 - 🎓 Currently pursuing **MCA at Heritage Institute of Technology**
 - 🛠️ **Tech Stack:**
-  - **Languages:** `Java`, `Python`, `C`, `C++`, `PHP`
-  - **Frontend:** `HTML`, `CSS`, `Bootstrap`
-  - **Backend:** `PHP`
-  - **Database:** `MySQL`
-  - **Tools & Platforms:** `Git`, `GitHub`, `VS Code`
+  - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+`
+  - **Frontend:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+  - **Backend:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+  - **Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+  - **Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 - 🔗 Projects and links: [Linktree - Subhadip Saha](https://linktr.ee/Subhadip2002)
 - 📫 Reach me at: **subhasaha9976@gmail.com**
 - ⚡ Fun fact: *"I think I forget everything I learn 😄"*
