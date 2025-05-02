@@ -10,8 +10,6 @@
 <p>
 <img align="right" alt="Coding" width="400" src="img\371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca-ezgif.com-crop.gif" />
 
----
-
 - 🎓 Currently pursuing **MCA at Heritage Institute of Technology**
 - 🛠️ **Tech Stack:**
   - **Languages:** `Java`, `Python`, `C`, `C++`, `PHP`
