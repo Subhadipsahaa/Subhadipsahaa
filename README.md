@@ -10,6 +10,7 @@
 <p>
 <img align="right" alt="Coding" width="400" src="img\371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca-ezgif.com-crop.gif" />
 
+- 🔭 I’m currently working as a Student
 - 🎓 Currently pursuing **MCA at Heritage Institute of Technology**
 - 🛠️ **Tech Stack:**
   - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -42,10 +43,10 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-  <a href="https://x.com/SubhadipSa36778" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/subhadip-saha-69a179214" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/subhadip__saha" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@subhadipsaha9799" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://x.com/SubhadipSa36778" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/subhadip-saha-69a179214" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://www.instagram.com/subhadip__saha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+  <a href="https://www.youtube.com/@subhadipsaha9799" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a>
 </p>
 
 ---
