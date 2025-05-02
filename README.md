@@ -1,15 +1,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Subhadip Saha</h1>
-<h3 align="center">A passionate learner, full stack developer in the making, and explorer from India</h3>
-<p align="left">
-<img align="right" alt="Coding" width="400" src="img\371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca-ezgif.com-crop.gif" />
-</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhadipSahaa&label=Profile%20views&color=0e75b6&style=flat" alt="SubhadipSahaa" /> </p>
 
 ---
-
+<p>
+<img align="right" alt="Coding" width="400" src="img\371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca-ezgif.com-crop.gif" />
+  
 - 🎓 Currently pursuing **MCA at Heritage Institute of Technology**
 - 🛠️ **Tech Stack:**
   - **Languages:** `Java`, `Python`, `C`, `C++`, `PHP`
@@ -20,6 +20,7 @@
 - 🔗 Projects and links: [Linktree - Subhadip Saha](https://linktr.ee/Subhadip2002)
 - 📫 Reach me at: **subhasaha9976@gmail.com**
 - ⚡ Fun fact: *"I think I forget everything I learn 😄"*
+</p>
 
 ---
 
