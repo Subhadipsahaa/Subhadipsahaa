@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Subhadip Saha</h1>
 <h3 align="center">A passionate learner, full stack developer in the making, and explorer from India</h3>
-<br>
+<p align="left">
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYxNzMyODAsIm5iZiI6MTc0NjE3Mjk4MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTAyVDA4MDMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIwOWYxNzNiMjUwNWNhNDdkOWJiM2NmM2NhOTA5MWYyOWI4MTcyZTIyM2QyNjgxODAzMzAyY2RhZTA2YjcxM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Jcn82Z9uDpACyjqTg9Rlmcn3OoqQy-de82K-gbmdJ-Q" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhadipSahaa&label=Profile%20views&color=0e75b6&style=flat" alt="SubhadipSahaa" /> </p>
 
