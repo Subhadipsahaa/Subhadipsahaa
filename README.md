@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Subhadip Saha</h1>
 
