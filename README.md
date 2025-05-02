@@ -60,18 +60,20 @@
 <h3 align="left">🧰 Languages and Tools:</h3>
 
 <p align="left">
-  <!-- Web Dev -->
-  <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="HTML" width="40"/>
-  
   <!-- Languages -->
   <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="CSS" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="C++" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Java" width="40"/>
-
+  
   <!-- Backend -->
   <img src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" alt="PHP" width="40"/>
-
+  
+  <!-- Web Dev -->
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="HTML" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="HTML" width="40"/>
+  
   <!-- DB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000" alt="Database" width="40"/>
