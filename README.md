@@ -62,7 +62,7 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhadipSahaa&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
