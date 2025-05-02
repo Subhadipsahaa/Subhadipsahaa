@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%"/>
+<img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYxNzI4NDIsIm5iZiI6MTc0NjE3MjU0MiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTAyVDA3NTU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0MmRlNTQ3ZDM3YTM4YzE5YmI2YmM1YmRmMGRkYjk2OWU4YTU2ZDFmMzczZDkwNDQwNzUzNGE2ZDM4NDg4ZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xvEszbfovsV5kyneQhv412mbRi6CuDHbqdDzEd-YqDk" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Subhadip Saha</h1>
 <h3 align="center">A passionate learner, full stack developer in the making, and explorer from India</h3>
