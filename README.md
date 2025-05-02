@@ -65,12 +65,10 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhadipSahaa&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SubhadipSahaa&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadipSahaa&" alt="Streak Stats"/>
 </p>
 
