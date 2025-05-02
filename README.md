@@ -13,7 +13,7 @@
 - 🔭 I’m currently working as a Student
 - 🎓 Currently pursuing **MCA at Heritage Institute of Technology**
 - 🛠️ **Tech Stack:**
-  - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -36,6 +36,7 @@
 - 🔗 Projects and links: [Linktree - Subhadip Saha](https://linktr.ee/Subhadip2002)
 - 📫 Reach me at: **subhasaha9976@gmail.com**
 - ⚡ Fun fact: *"I think I forget everything I learn 😄"*
+- 📸 I'm also a **photographer** — capturing moments is another way I express creativity!
 </p>
 
 ---
