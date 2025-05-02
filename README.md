@@ -11,7 +11,8 @@
 <img align="right" alt="Coding" width="400" src="img\371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca-ezgif.com-crop.gif" />
 
 - 🔭 I’m currently working as a Student
-- 🎓 Currently pursuing **MCA at Heritage Institute of Technology**
+- 🎓 Completed **Bachelor of Computer Applications (BCA)** from **Netaji Mahavidyalaya (University of Burdwan)**
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)** at **Heritage Institute of Technology, Kolkata**
 - 🛠️ **Tech Stack:**
   - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -36,7 +37,11 @@
 - 🔗 Projects and links: [Linktree - Subhadip Saha](https://linktr.ee/Subhadip2002)
 - 📫 Reach me at: **subhasaha9976@gmail.com**
 - ⚡ Fun fact: *"I think I forget everything I learn 😄"*
-- 📸 I'm also a **photographer** — capturing moments is another way I express creativity!
+- 🧑‍🎓 Hobby & Interests:  
+  - 📸 Photography  
+  - 🎧 Listening to music  
+  - 📚 Learning new technologies  
+
 </p>
 
 ---
