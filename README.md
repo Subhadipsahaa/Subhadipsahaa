@@ -30,16 +30,16 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-  <a href="https://x.com/SubhadipSa36778" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/SubhadipSa36778" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/subhadip-saha-69a179214" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/subhadip-saha-69a179214" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/subhadip__saha" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/subhadip__saha" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@subhadipsaha9799" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/@subhadipsaha9799" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
@@ -49,18 +49,18 @@
 <h3 align="left">🧰 Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="HTML" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="CSS" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="Bootstrap" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="C++" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Java" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=po2kHs4X1tpt&format=png&color=000000" alt="Python" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" alt="PHP" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=ffffff" alt="VS Code" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="Git" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="GitHub" width="40" />
 </p>
 
 ---
@@ -68,13 +68,13 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhadipSahaa&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhadipSahaa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhadipSahaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhadipSahaa&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadipSahaa&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadipSahaa&" alt="Streak Stats" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 <h3 align="left">🏆 GitHub Trophies</h3>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhadipSahaa&theme=tokyonight&row=1&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SubhadipSahaa" alt="GitHub Trophies" />
 </p>
 
 ---
